@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TebSoundApp1</string>
+    <string name="title_activity_base">BaseActivity</string>
+
+
+    <string name="edit_pass">ویرایش پسورد</string>
+    <string name="login"> ورود</string>
+    <string name="logout">خروج</string>
+    <string name="search">جستجو</string>
+    <string name="sound_size_title">سایز</string>
+    <string name="download_time_title">دانلود </string>
+    <string name="more">بیشتر >></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
